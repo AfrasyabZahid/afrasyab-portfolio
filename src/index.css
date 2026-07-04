@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Custom text stroke class for outline-only text */
+.text-stroke-black {
+  -webkit-text-stroke: 1.2px #111111;
+  color: transparent;
+}
+
+.text-stroke-black-thin {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.35);
+  color: transparent;
+}
+
+@media (min-width: 768px) {
+  .text-stroke-black {
+    -webkit-text-stroke: 2.5px #111111;
+  }
+  .text-stroke-black-thin {
+    -webkit-text-stroke: 1.5px rgba(255, 255, 255, 0.45);
+  }
+}
+
+/* Cinematic dark video radial gradient vignette */
+.bg-radial-vignette {
+  background: radial-gradient(circle, rgba(20,20,20,0.85) 0%, rgba(5,5,5,1) 100%);
+}
+
+/* Soft cloud/paper desaturated backdrop effect */
+.bg-cloud-backdrop {
+  background-color: #f5f5f3;
+  background-image: radial-gradient(#d3d3d3 0.75px, transparent 0.75px), radial-gradient(#d3d3d3 0.75px, #f5f5f3 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+  opacity: 0.95;
+}
+
+/* Custom scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+

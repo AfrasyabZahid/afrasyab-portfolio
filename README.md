@@ -1,82 +1,99 @@
 <div align="center">
 
-# 👋 Afrasyab Zahid
+<img src="./assets/banner.png" alt="Afrasyab Zahid Portfolio Banner" width="100%" />
 
-### Software Engineer | AI & Machine Learning | Full Stack Developer
+# Afrasyab Zahid
 
-Building intelligent software, scalable web applications, and AI-powered solutions.
+### AI & Automation Engineer
 
-🌐 **Portfolio:** https://afrasyab-portfolio.web.app
+Building intelligent AI systems, workflow automation, LLM applications, and modern web experiences.
+
+<p>
+  <a href="https://afrasyab-portfolio.web.app">
+    <img src="https://api.iconify.design/lucide:globe.svg?color=%230ea5e9" width="16" /> Portfolio
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AfrasyabZahid">
+    <img src="https://api.iconify.design/lucide:github.svg" width="16" /> GitHub
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/afrasyab-zahid">
+    <img src="https://api.iconify.design/lucide:linkedin.svg?color=%230A66C2" width="16" /> LinkedIn
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About
+## About
 
-Welcome to my personal portfolio repository.
+I design and build AI-powered products that combine Large Language Models, intelligent automation, and scalable web technologies.
 
-This website showcases my work, projects, technical skills, research, and professional experience in:
+My work focuses on:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 💻 Full Stack Development
-- ⚡ Agentic AI & RAG Systems
-- ☁️ Cloud & Modern Web Technologies
-
----
-
-## 🛠️ Tech Stack
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Firebase Hosting
-- Git & GitHub
+- <img src="https://api.iconify.design/lucide:bot.svg" width="16"/> AI Agents
+- <img src="https://api.iconify.design/lucide:workflow.svg" width="16"/> Workflow Automation
+- <img src="https://api.iconify.design/lucide:brain-circuit.svg" width="16"/> LLM Applications
+- <img src="https://api.iconify.design/lucide:database.svg" width="16"/> Retrieval-Augmented Generation (RAG)
+- <img src="https://api.iconify.design/lucide:chart-column.svg" width="16"/> Data Science & Analytics
+- <img src="https://api.iconify.design/lucide:code-xml.svg" width="16"/> Full-Stack Development
 
 ---
 
-## ✨ Featured Projects
+## Tech Stack
 
-- 🧠 AgenticRAG – Autonomous Knowledge Base Assistant
-- 📈 VisionPulse – Financial Market Intelligence Platform
-- 📰 PalmNews – AI News Summarization Platform
-- 💼 IntelliHire – AI Interview Assistant
-- 🔍 AutoScrape – Intelligent Web Data Extraction
-- 📡 QueryCast – AI Research Assistant
-- 😊 Sentix – Sentiment Analysis Platform
+**Languages**
+
+Python • TypeScript • JavaScript • C++ • C#
+
+**Frontend**
+
+React • Vite • Tailwind CSS
+
+**Backend**
+
+Node.js • Express • REST APIs
+
+**AI**
+
+OpenAI • Gemini • LangChain • Vector Databases • Prompt Engineering • AI Agents
+
+**Automation**
+
+n8n • Workflow Automation • API Integrations
+
+**Deployment**
+
+Firebase • GitHub • Git
 
 ---
 
-## ⚙️ Running Locally
+## Featured Projects
 
-### Clone the repository
+- **IntelliHire** — AI Interview Assistant
+- **Agentic RAG** — Autonomous Knowledge Assistant
+- **VisionPulse** — Financial Intelligence Platform
+- **PalmNews** — AI News Summarization
+- **AutoScrape** — Intelligent Web Data Extraction
+- **QueryCast** — AI Research Assistant
+- **Sentix** — Sentiment Analysis Platform
+
+---
+
+## Local Development
 
 ```bash
 git clone https://github.com/AfrasyabZahid/afrasyab-portfolio.git
-```
 
-### Navigate into the project
-
-```bash
 cd afrasyab-portfolio
-```
 
-### Install dependencies
-
-```bash
 npm install
-```
 
-### Start development server
-
-```bash
 npm run dev
 ```
 
-### Build for production
+Production build:
 
 ```bash
 npm run build
@@ -84,24 +101,22 @@ npm run build
 
 ---
 
-## 🌍 Live Website
+## Live Portfolio
 
-### https://afrasyab-portfolio.web.app
+https://afrasyab-portfolio.web.app
 
 ---
 
-## 📬 Contact
+## Connect
 
-**Afrasyab Zahid**
-
-- GitHub: https://github.com/AfrasyabZahid
-- LinkedIn: https://linkedin.com/in/afrasyab-zahid
-- Portfolio: https://afrasyab-portfolio.web.app
+- Portfolio → https://afrasyab-portfolio.web.app
+- GitHub → https://github.com/AfrasyabZahid
+- LinkedIn → https://linkedin.com/in/afrasyab-zahid
 
 ---
 
 <div align="center">
 
-⭐ If you like my work, consider starring this repository.
+Designed & Developed by **Afrasyab Zahid**
 
 </div>
